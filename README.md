@@ -1,2 +1,8 @@
 # Artemis-Financial-Sec--Report-
 In this project, I performed a vulnerability assessment on the application, identified security weaknesses, and implemented fixes such as enabling HTTPS, updating insecure dependencies, and strengthening encryption. I also re-tested the application to ensure it remained functional and secure after the improvements.
+
+Artemis Financial is a financial services company that handles sensitive customer information and online transactions. The company needed its web application to be more secure to prevent client data from being exposed to cyber threats. My role was to identify security weaknesses in the software and implement solutions to better protect the system.
+
+I reviewed the vulnerability reports, identified the most critical issues, and applied the appropriate fixes without disrupting the application’s functionality. I strengthened security by enabling HTTPS, updating insecure dependencies, and ensuring proper encryption and hashing practices were in place. After making these improvements, I tested the application and re-ran vulnerability scans to confirm that the original issues were resolved and that no new vulnerabilities were introduced.
+
+This project reinforced the importance of secure coding, as strong security protects sensitive data, builds customer trust, prevents financial loss, and supports regulatory compliance. I used secure coding practices, dependency-check tools, static analysis concepts, and OWASP guidelines to guide my decisions. Overall, this assignment demonstrates my ability to assess risks, implement layered security measures, and maintain both functionality and protection within a software application.
